@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite Name" duration-ms="30106" started-at="2018-09-08T22:37:26Z" finished-at="2018-09-08T22:37:56Z">
+    <groups>
+    </groups>
+    <test name="Test A" duration-ms="10031" started-at="2018-09-08T22:37:26Z" finished-at="2018-09-08T22:37:36Z">
+      <class name="testcases.TestA">
+        <test-method status="PASS" signature="testA()[pri:0, instance:testcases.TestA@6cc4c815]" name="testA" duration-ms="10008" started-at="2018-09-09T04:07:26Z" finished-at="2018-09-09T04:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- testcases.TestA -->
+    </test> <!-- Test A -->
+    <test name="Test B" duration-ms="10005" started-at="2018-09-08T22:37:36Z" finished-at="2018-09-08T22:37:46Z">
+      <class name="testcases.TestB">
+        <test-method status="PASS" signature="testB()[pri:0, instance:testcases.TestB@55f3ddb1]" name="testB" duration-ms="10001" started-at="2018-09-09T04:07:36Z" finished-at="2018-09-09T04:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+      </class> <!-- testcases.TestB -->
+    </test> <!-- Test B -->
+    <test name="Test C" duration-ms="10010" started-at="2018-09-08T22:37:46Z" finished-at="2018-09-08T22:37:56Z">
+      <class name="testcases.TestC">
+        <test-method status="PASS" signature="testC()[pri:0, instance:testcases.TestC@26be92ad]" name="testC" duration-ms="10004" started-at="2018-09-09T04:07:46Z" finished-at="2018-09-09T04:07:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+      </class> <!-- testcases.TestC -->
+    </test> <!-- Test C -->
+  </suite> <!-- Suite Name -->
+</testng-results>

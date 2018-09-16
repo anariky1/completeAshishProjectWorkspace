@@ -1,0 +1,15 @@
+<suite name="SuiteName" parallel="tests">
+	<test name="sanity test" allow-return-values="true">
+		<classes>
+			<class name="com.testng.order.TestCase2" />
+			<class name="com.testng.order.TestCase1" />
+		</classes>
+	</test>
+	<test name="Acceptance test" allow-return-values="true">
+		<classes>
+			<class name="com.testng.order.TestCase2" />
+			<class name="com.testng.order.TestCase3" />
+		</classes>
+	</test>
+</suite>
+
